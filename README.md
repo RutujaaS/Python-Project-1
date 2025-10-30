@@ -27,11 +27,9 @@ Simple and user-friendly design.
 
 # 🛠️Technologies Used:
 
-## Programming Language:   
-Python Programming Language 
+**Programming Language:-** Python Programming Language  
 
-## Tools:    
-Visual Studio Code(VS Code)
+**Tools:-** Visual Studio Code(VS Code)
 
 # ⚙️Working Principle:
 
